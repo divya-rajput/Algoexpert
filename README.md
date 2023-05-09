@@ -1,4 +1,3 @@
-# Algoexpert
-This repository  contains the solution for algoexpert's hand picked Questions.
-## 180 Hand-picked Questions list below:
-### 01 - Two Number Sum
+## This repository contains the solutions for multiple online coding Platform.
+01 - Two Number Sum
+02 - Validate Subsequence
