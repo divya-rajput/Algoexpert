@@ -1,3 +1,3 @@
 ## This repository contains the solutions for multiple online coding Platform.
-01 - Two Number Sum
-02 - Validate Subsequence
+01 - Two Number Sum <br />
+02 - Validate Subsequence <br />
