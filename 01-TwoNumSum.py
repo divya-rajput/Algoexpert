@@ -1,6 +1,4 @@
-#Copy the below code to Algoexpert
 #Complexity analysis
-
 #Solution- 01 Time complexity- O(n^2) Space complexity- O(1)
 def twoNumberSum(array, targetSum):
 	for i in range(len(array)):
