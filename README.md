@@ -22,3 +22,9 @@
 21 - Insertion Sort <br />
 22 - Selection Sort <br />
 23 - Palindrome Check <br />
+24 - Caesar Cipher Encryptor <br />
+25 - Common Characters <br />
+26 - Run Length Encoding <br />
+27 - Generate Document <br />
+28 - First Non Repeating Character <br />
+29 - Semordnilap <br />
