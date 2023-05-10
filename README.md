@@ -9,3 +9,16 @@
 08 - Node Depths <br />
 09 - Evaluate Expression Tree <br />
 10 - Depth-First Search <br />
+11 - Minimum Waiting Time <br />
+12 - Class Photos <br />
+13 - Tandem Bicycle <br />
+14 - Remove Duplicates From Linked List <br />
+15 - Middle Node <br />
+16 - Nth Fibonacci <br />
+17 - Product Sum <br />
+18 - Binary Search <br />
+19 - Find Three Largest Numbers <br />
+20 - Bubble Sort <br />
+21 - Insertion Sort <br />
+22 - Selection Sort <br />
+23 - Palindrome Check <br />
