@@ -28,3 +28,16 @@
 27 - Generate Document <br />
 28 - First Non Repeating Character <br />
 29 - Semordnilap <br />
+30 - Three Number Sum <br />
+31 - Smallest Difference <br />
+32 - Move Element To End <br />
+33 - Monotonic Array <br />
+34 - Spiral Traverse <br />
+35 - Longest Peak <br />
+36 - Array Of Products <br />
+37 - First Duplicate Value <br />
+38 - Merge Overlaping Intervals <br />
+39 - Best Seat <br />
+40 - Zero Sum Subarray <br />
+
+
